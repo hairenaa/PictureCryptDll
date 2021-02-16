@@ -1,0 +1,11 @@
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\bin\Debug\PictureHandlerTest.exe.config
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\bin\Debug\PictureHandlerTest.exe
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\bin\Debug\PictureHandlerTest.pdb
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\bin\Debug\PictureHandler_dll.dll
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\bin\Debug\PictureHandler_dll.pdb
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\obj\Debug\PictureHandlerTest.csprojResolveAssemblyReference.cache
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\obj\Debug\PictureHandlerTest.Form1.resources
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\obj\Debug\PictureHandlerTest.Properties.Resources.resources
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\obj\Debug\PictureHandlerTest.csproj.GenerateResource.Cache
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\obj\Debug\PictureHandlerTest.exe
+F:\vs prroject\PictureHandlerTest\PictureHandlerTest\obj\Debug\PictureHandlerTest.pdb
